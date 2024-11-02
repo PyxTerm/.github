@@ -132,4 +132,4 @@ table = Table([
 
 ---
 
-More details : [table](https://xterm.readthedocs.io/en/latest/table/ 'xTerm Table Terminal')
+More details : [table](https://xterm.readthedocs.io/en/latest/table/ 'xTerm Table Terminal') | [Notebook Example](https://deepnote.com/app/vector3/xTerm-5a0d16cf-d30e-4373-8564-4b5f7b2d0ed3)
